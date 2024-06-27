@@ -19,6 +19,7 @@ const media = [
     description:
       "ParkQwik, an innovative parking solutions platform founded by Arun Kumar, is set to disrupt...",
     image: image5,
+    link:"https://timesofindia.indiatimes.com/parkqwik-raised-pre-seed-funding-stepping-stone-to-south-east-asian-expansion/articleshow/100791650.cms"
   },
   {
     id: 2,
@@ -27,6 +28,7 @@ const media = [
     description:
       "One of the standout features of this game-changing platform is its focus on supporting the EV..",
     image: image7,
+    link:"https://www.theweek.in/wire-updates/business/2023/06/06/dcm35-parkqwik.html"
   },
   {
     id: 3,
@@ -35,6 +37,7 @@ const media = [
     description:
       "One of the standout features of this game-changing platform is its focus on supporting the EV..",
     image: image9,
+    link:"https://www.sangritoday.com/spotlight/parkqwik-raised-pre-seed-funding-stepping-stone-to-south-east-asian-expansion"
   },
 ];
 

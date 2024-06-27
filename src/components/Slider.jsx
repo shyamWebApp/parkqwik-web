@@ -223,7 +223,7 @@ const Slider = ({ slides, customers, media, services }) => {
               <p className="media-title">{data.title}</p>
               <p className="media-desc">
                 {data.description}
-                <span className="read-more"> Read More</span>
+                 <a href={data.link} style={{textDecoration:'none'}}><span className="read-more"> Read More</span></a>
               </p>
               <div className="w-100 d-flex justify-content-end">
                 <p className="media-date">{data.date}</p>

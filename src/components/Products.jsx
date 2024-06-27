@@ -33,7 +33,7 @@ const slides = [
 const Products = () => {
   return (
     <div className="w-100 d-flex flex-column align-items-center justify-content-center mt-5">
-      <p className="fs-1 fw-medium">Our Products</p>
+      <p className="fs-1 fw-medium">Our Services</p>
       <Slider slides={slides} />
       <div className="container d-flex flex-xl-row flex-column align-items-center w-100 justify-content-evenly mt-5 mb-4">
         <div className="d-flex flex-column justify-content-center mb-5">

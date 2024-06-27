@@ -184,7 +184,7 @@ const Navbar = () => {
                 className={selected == 4 ? "nav-items-selected" : "nav-items"}
                 onClick={() => setSelected(4)}
               >
-                Products{" "}
+                Services{" "}
               </p>
             </Link>
             <Link
